@@ -140,5 +140,17 @@
   <ItemGroup>
     <None Include="Resources\xF.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\campoFutbol21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\campoFutbol4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\igualF.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

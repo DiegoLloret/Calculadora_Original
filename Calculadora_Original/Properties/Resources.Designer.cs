@@ -123,6 +123,16 @@ namespace Calculadora_Original.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap campoFutbol21 {
+            get {
+                object obj = ResourceManager.GetObject("campoFutbol21", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap campoFutbol3 {
             get {
                 object obj = ResourceManager.GetObject("campoFutbol3", resourceCulture);
@@ -133,9 +143,29 @@ namespace Calculadora_Original.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap campoFutbol4 {
+            get {
+                object obj = ResourceManager.GetObject("campoFutbol4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap caravajal1 {
             get {
                 object obj = ResourceManager.GetObject("caravajal1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap clearF {
+            get {
+                object obj = ResourceManager.GetObject("clearF", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -186,6 +216,16 @@ namespace Calculadora_Original.Properties {
         internal static System.Drawing.Bitmap hazardF {
             get {
                 object obj = ResourceManager.GetObject("hazardF", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap igualF {
+            get {
+                object obj = ResourceManager.GetObject("igualF", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
